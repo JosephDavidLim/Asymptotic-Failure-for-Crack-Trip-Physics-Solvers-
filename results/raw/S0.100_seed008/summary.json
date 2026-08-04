@@ -1,0 +1,16 @@
+{
+  "S": 0.1,
+  "seed": 8,
+  "n_epochs": 2000,
+  "wall_time_sec": 17.301799058914185,
+  "K_I": 0.18269130851905993,
+  "K_II": -0.0008895756085744999,
+  "final_train_loss": 2.638146248683982e-06,
+  "final_test_loss": 1.5957397008739096e-06,
+  "normalized_train_loss": 0.00026381462486839815,
+  "normalized_test_loss": 0.00015957397008739094,
+  "plateau_ratio": 0.14476003495192913,
+  "K_el_exact": 0.18520000000000003,
+  "lefm_verification_error": 0.013545850329050218,
+  "out_dir": "results/raw/S0.100_seed008"
+}

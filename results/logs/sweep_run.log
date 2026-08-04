@@ -1,0 +1,800 @@
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed000/model.dict
+[1/200] train S0.050_seed000  K_I=0.0915  train_loss=5.64e-07  lefm_verif_err=1.20%  elapsed=17s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed001/model.dict
+[2/200] train S0.050_seed001  K_I=0.0906  train_loss=8.32e-07  lefm_verif_err=2.16%  elapsed=34s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed002/model.dict
+[3/200] train S0.050_seed002  K_I=0.0899  train_loss=3.64e-05  lefm_verif_err=2.93%  elapsed=51s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed003/model.dict
+[4/200] train S0.050_seed003  K_I=0.0913  train_loss=7.41e-07  lefm_verif_err=1.43%  elapsed=67s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed004/model.dict
+[5/200] train S0.050_seed004  K_I=0.0913  train_loss=6.12e-07  lefm_verif_err=1.40%  elapsed=83s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed005/model.dict
+[6/200] train S0.050_seed005  K_I=0.0908  train_loss=8.13e-07  lefm_verif_err=1.99%  elapsed=100s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed006/model.dict
+[7/200] train S0.050_seed006  K_I=0.0905  train_loss=7.55e-06  lefm_verif_err=2.22%  elapsed=116s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed007/model.dict
+[8/200] train S0.050_seed007  K_I=0.0904  train_loss=6.52e-07  lefm_verif_err=2.36%  elapsed=135s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed008/model.dict
+[9/200] train S0.050_seed008  K_I=0.0908  train_loss=1.13e-06  lefm_verif_err=1.98%  elapsed=152s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed009/model.dict
+[10/200] train S0.050_seed009  K_I=0.0910  train_loss=1.10e-06  lefm_verif_err=1.76%  elapsed=169s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed010/model.dict
+[11/200] train S0.050_seed010  K_I=0.0904  train_loss=7.87e-07  lefm_verif_err=2.38%  elapsed=185s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed011/model.dict
+[12/200] train S0.050_seed011  K_I=0.0907  train_loss=1.01e-06  lefm_verif_err=2.10%  elapsed=201s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed012/model.dict
+[13/200] train S0.050_seed012  K_I=0.0905  train_loss=6.87e-07  lefm_verif_err=2.22%  elapsed=218s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed013/model.dict
+[14/200] train S0.050_seed013  K_I=0.0910  train_loss=1.08e-06  lefm_verif_err=1.67%  elapsed=234s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed014/model.dict
+[15/200] train S0.050_seed014  K_I=0.0911  train_loss=1.49e-06  lefm_verif_err=1.60%  elapsed=250s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed015/model.dict
+[16/200] train S0.050_seed015  K_I=0.0911  train_loss=1.24e-06  lefm_verif_err=1.64%  elapsed=266s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed016/model.dict
+[17/200] train S0.050_seed016  K_I=0.0906  train_loss=8.16e-07  lefm_verif_err=2.20%  elapsed=283s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed017/model.dict
+[18/200] train S0.050_seed017  K_I=0.0912  train_loss=1.23e-06  lefm_verif_err=1.47%  elapsed=299s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed018/model.dict
+[19/200] train S0.050_seed018  K_I=0.0909  train_loss=2.00e-06  lefm_verif_err=1.80%  elapsed=317s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.050_seed019/model.dict
+[20/200] train S0.050_seed019  K_I=0.0904  train_loss=1.21e-06  lefm_verif_err=2.32%  elapsed=334s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed000/model.dict
+[21/200] train S0.100_seed000  K_I=0.1839  train_loss=1.32e-06  lefm_verif_err=0.73%  elapsed=350s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed001/model.dict
+[22/200] train S0.100_seed001  K_I=0.1834  train_loss=1.54e-06  lefm_verif_err=0.97%  elapsed=367s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed002/model.dict
+[23/200] train S0.100_seed002  K_I=0.1838  train_loss=1.87e-06  lefm_verif_err=0.78%  elapsed=384s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed003/model.dict
+[24/200] train S0.100_seed003  K_I=0.1801  train_loss=7.12e-06  lefm_verif_err=2.73%  elapsed=400s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed004/model.dict
+[25/200] train S0.100_seed004  K_I=0.1840  train_loss=1.49e-06  lefm_verif_err=0.64%  elapsed=417s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed005/model.dict
+[26/200] train S0.100_seed005  K_I=0.1847  train_loss=9.14e-06  lefm_verif_err=0.27%  elapsed=433s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed006/model.dict
+[27/200] train S0.100_seed006  K_I=0.1828  train_loss=1.76e-06  lefm_verif_err=1.31%  elapsed=450s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed007/model.dict
+[28/200] train S0.100_seed007  K_I=0.1830  train_loss=1.15e-06  lefm_verif_err=1.20%  elapsed=469s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed008/model.dict
+[29/200] train S0.100_seed008  K_I=0.1827  train_loss=2.64e-06  lefm_verif_err=1.35%  elapsed=486s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed009/model.dict
+[30/200] train S0.100_seed009  K_I=0.1826  train_loss=2.80e-06  lefm_verif_err=1.42%  elapsed=503s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed010/model.dict
+[31/200] train S0.100_seed010  K_I=0.1813  train_loss=2.27e-05  lefm_verif_err=2.12%  elapsed=519s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed011/model.dict
+[32/200] train S0.100_seed011  K_I=0.1826  train_loss=1.99e-06  lefm_verif_err=1.42%  elapsed=535s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed012/model.dict
+[33/200] train S0.100_seed012  K_I=0.1828  train_loss=1.55e-06  lefm_verif_err=1.28%  elapsed=552s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed013/model.dict
+[34/200] train S0.100_seed013  K_I=0.1832  train_loss=2.01e-06  lefm_verif_err=1.09%  elapsed=568s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed014/model.dict
+[35/200] train S0.100_seed014  K_I=0.1837  train_loss=2.64e-06  lefm_verif_err=0.79%  elapsed=584s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed015/model.dict
+[36/200] train S0.100_seed015  K_I=0.1833  train_loss=1.97e-06  lefm_verif_err=1.04%  elapsed=601s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed016/model.dict
+[37/200] train S0.100_seed016  K_I=0.1836  train_loss=1.47e-06  lefm_verif_err=0.85%  elapsed=618s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed017/model.dict
+[38/200] train S0.100_seed017  K_I=0.1829  train_loss=3.06e-06  lefm_verif_err=1.26%  elapsed=634s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed018/model.dict
+[39/200] train S0.100_seed018  K_I=0.1830  train_loss=4.12e-06  lefm_verif_err=1.19%  elapsed=652s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.100_seed019/model.dict
+[40/200] train S0.100_seed019  K_I=0.1831  train_loss=1.81e-06  lefm_verif_err=1.11%  elapsed=669s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed000/model.dict
+[41/200] train S0.150_seed000  K_I=0.2763  train_loss=2.31e-06  lefm_verif_err=0.53%  elapsed=686s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed001/model.dict
+[42/200] train S0.150_seed001  K_I=0.2758  train_loss=2.43e-06  lefm_verif_err=0.72%  elapsed=704s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed002/model.dict
+[43/200] train S0.150_seed002  K_I=0.2760  train_loss=6.28e-06  lefm_verif_err=0.63%  elapsed=722s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed003/model.dict
+[44/200] train S0.150_seed003  K_I=0.2762  train_loss=3.00e-06  lefm_verif_err=0.56%  elapsed=739s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed004/model.dict
+[45/200] train S0.150_seed004  K_I=0.2761  train_loss=2.81e-06  lefm_verif_err=0.61%  elapsed=757s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed005/model.dict
+[46/200] train S0.150_seed005  K_I=0.2771  train_loss=2.48e-06  lefm_verif_err=0.23%  elapsed=774s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed006/model.dict
+[47/200] train S0.150_seed006  K_I=0.2752  train_loss=2.35e-05  lefm_verif_err=0.93%  elapsed=792s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed007/model.dict
+[48/200] train S0.150_seed007  K_I=0.2749  train_loss=2.07e-06  lefm_verif_err=1.04%  elapsed=811s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed008/model.dict
+[49/200] train S0.150_seed008  K_I=0.2758  train_loss=4.16e-06  lefm_verif_err=0.71%  elapsed=829s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed009/model.dict
+[50/200] train S0.150_seed009  K_I=0.2759  train_loss=3.69e-06  lefm_verif_err=0.70%  elapsed=847s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed010/model.dict
+[51/200] train S0.150_seed010  K_I=0.2745  train_loss=2.97e-06  lefm_verif_err=1.17%  elapsed=864s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed011/model.dict
+[52/200] train S0.150_seed011  K_I=0.2758  train_loss=2.26e-06  lefm_verif_err=0.72%  elapsed=882s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed012/model.dict
+[53/200] train S0.150_seed012  K_I=0.2742  train_loss=8.57e-06  lefm_verif_err=1.29%  elapsed=899s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed013/model.dict
+[54/200] train S0.150_seed013  K_I=0.2755  train_loss=2.60e-06  lefm_verif_err=0.81%  elapsed=917s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed014/model.dict
+[55/200] train S0.150_seed014  K_I=0.2769  train_loss=3.69e-06  lefm_verif_err=0.33%  elapsed=934s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed015/model.dict
+[56/200] train S0.150_seed015  K_I=0.2764  train_loss=3.70e-06  lefm_verif_err=0.50%  elapsed=951s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed016/model.dict
+[57/200] train S0.150_seed016  K_I=0.2756  train_loss=2.42e-06  lefm_verif_err=0.80%  elapsed=969s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed017/model.dict
+[58/200] train S0.150_seed017  K_I=0.2764  train_loss=3.42e-06  lefm_verif_err=0.51%  elapsed=986s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed018/model.dict
+[59/200] train S0.150_seed018  K_I=0.2758  train_loss=2.97e-06  lefm_verif_err=0.72%  elapsed=1006s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.150_seed019/model.dict
+[60/200] train S0.150_seed019  K_I=0.2752  train_loss=8.39e-06  lefm_verif_err=0.95%  elapsed=1024s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed000/model.dict
+[61/200] train S0.200_seed000  K_I=0.3683  train_loss=4.14e-06  lefm_verif_err=0.57%  elapsed=1041s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed001/model.dict
+[62/200] train S0.200_seed001  K_I=0.3679  train_loss=4.02e-06  lefm_verif_err=0.69%  elapsed=1059s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed002/model.dict
+[63/200] train S0.200_seed002  K_I=0.3685  train_loss=3.93e-06  lefm_verif_err=0.52%  elapsed=1078s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed003/model.dict
+[64/200] train S0.200_seed003  K_I=0.3670  train_loss=4.26e-05  lefm_verif_err=0.91%  elapsed=1095s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed004/model.dict
+[65/200] train S0.200_seed004  K_I=0.3676  train_loss=3.90e-06  lefm_verif_err=0.76%  elapsed=1113s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed005/model.dict
+[66/200] train S0.200_seed005  K_I=0.3701  train_loss=3.86e-06  lefm_verif_err=0.07%  elapsed=1131s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed006/model.dict
+[67/200] train S0.200_seed006  K_I=0.3670  train_loss=5.61e-06  lefm_verif_err=0.91%  elapsed=1148s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed007/model.dict
+[68/200] train S0.200_seed007  K_I=0.3672  train_loss=3.66e-06  lefm_verif_err=0.87%  elapsed=1168s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed008/model.dict
+[69/200] train S0.200_seed008  K_I=0.3681  train_loss=6.14e-06  lefm_verif_err=0.62%  elapsed=1186s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed009/model.dict
+[70/200] train S0.200_seed009  K_I=0.3628  train_loss=4.30e-05  lefm_verif_err=2.06%  elapsed=1204s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed010/model.dict
+[71/200] train S0.200_seed010  K_I=0.3661  train_loss=8.90e-06  lefm_verif_err=1.16%  elapsed=1222s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed011/model.dict
+[72/200] train S0.200_seed011  K_I=0.3682  train_loss=3.67e-06  lefm_verif_err=0.60%  elapsed=1239s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed012/model.dict
+[73/200] train S0.200_seed012  K_I=0.3671  train_loss=4.06e-06  lefm_verif_err=0.89%  elapsed=1258s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed013/model.dict
+[74/200] train S0.200_seed013  K_I=0.3681  train_loss=3.31e-06  lefm_verif_err=0.62%  elapsed=1275s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed014/model.dict
+[75/200] train S0.200_seed014  K_I=0.3677  train_loss=3.31e-05  lefm_verif_err=0.72%  elapsed=1294s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed015/model.dict
+[76/200] train S0.200_seed015  K_I=0.3689  train_loss=4.10e-06  lefm_verif_err=0.41%  elapsed=1312s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed016/model.dict
+[77/200] train S0.200_seed016  K_I=0.3674  train_loss=4.56e-06  lefm_verif_err=0.82%  elapsed=1330s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed017/model.dict
+[78/200] train S0.200_seed017  K_I=0.3688  train_loss=4.30e-06  lefm_verif_err=0.44%  elapsed=1347s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed018/model.dict
+[79/200] train S0.200_seed018  K_I=0.3680  train_loss=4.61e-06  lefm_verif_err=0.66%  elapsed=1367s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.200_seed019/model.dict
+[80/200] train S0.200_seed019  K_I=0.3677  train_loss=5.30e-06  lefm_verif_err=0.74%  elapsed=1385s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed000/model.dict
+[81/200] train S0.300_seed000  K_I=0.5550  train_loss=3.69e-06  lefm_verif_err=0.12%  elapsed=1403s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed001/model.dict
+[82/200] train S0.300_seed001  K_I=0.5514  train_loss=7.94e-06  lefm_verif_err=0.75%  elapsed=1421s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed002/model.dict
+[83/200] train S0.300_seed002  K_I=0.5539  train_loss=5.09e-06  lefm_verif_err=0.30%  elapsed=1440s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed003/model.dict
+[84/200] train S0.300_seed003  K_I=0.5516  train_loss=1.68e-05  lefm_verif_err=0.71%  elapsed=1458s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed004/model.dict
+[85/200] train S0.300_seed004  K_I=0.5517  train_loss=8.88e-06  lefm_verif_err=0.69%  elapsed=1475s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed005/model.dict
+[86/200] train S0.300_seed005  K_I=0.5548  train_loss=1.03e-05  lefm_verif_err=0.14%  elapsed=1493s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed006/model.dict
+[87/200] train S0.300_seed006  K_I=0.5531  train_loss=4.76e-06  lefm_verif_err=0.45%  elapsed=1511s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed007/model.dict
+[88/200] train S0.300_seed007  K_I=0.5513  train_loss=5.86e-06  lefm_verif_err=0.77%  elapsed=1531s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed008/model.dict
+[89/200] train S0.300_seed008  K_I=0.5534  train_loss=8.19e-06  lefm_verif_err=0.39%  elapsed=1549s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed009/model.dict
+[90/200] train S0.300_seed009  K_I=0.5490  train_loss=2.17e-05  lefm_verif_err=1.19%  elapsed=1568s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed010/model.dict
+[91/200] train S0.300_seed010  K_I=0.5533  train_loss=1.19e-04  lefm_verif_err=0.42%  elapsed=1586s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed011/model.dict
+[92/200] train S0.300_seed011  K_I=0.5519  train_loss=8.04e-06  lefm_verif_err=0.66%  elapsed=1604s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed012/model.dict
+[93/200] train S0.300_seed012  K_I=0.5508  train_loss=6.92e-06  lefm_verif_err=0.87%  elapsed=1623s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed013/model.dict
+[94/200] train S0.300_seed013  K_I=0.5529  train_loss=5.32e-06  lefm_verif_err=0.48%  elapsed=1641s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed014/model.dict
+[95/200] train S0.300_seed014  K_I=0.5523  train_loss=1.59e-05  lefm_verif_err=0.59%  elapsed=1660s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed015/model.dict
+[96/200] train S0.300_seed015  K_I=0.5538  train_loss=9.07e-06  lefm_verif_err=0.33%  elapsed=1683s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed016/model.dict
+[97/200] train S0.300_seed016  K_I=0.5511  train_loss=1.18e-05  lefm_verif_err=0.81%  elapsed=1701s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed017/model.dict
+[98/200] train S0.300_seed017  K_I=0.5523  train_loss=8.96e-06  lefm_verif_err=0.59%  elapsed=1721s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed018/model.dict
+[99/200] train S0.300_seed018  K_I=0.5519  train_loss=2.38e-05  lefm_verif_err=0.67%  elapsed=1739s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.300_seed019/model.dict
+[100/200] train S0.300_seed019  K_I=0.5524  train_loss=9.86e-06  lefm_verif_err=0.58%  elapsed=1758s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed000/model.dict
+[101/200] train S0.400_seed000  K_I=0.7379  train_loss=1.18e-05  lefm_verif_err=0.39%  elapsed=1775s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed001/model.dict
+[102/200] train S0.400_seed001  K_I=0.7352  train_loss=4.99e-05  lefm_verif_err=0.76%  elapsed=1797s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed002/model.dict
+[103/200] train S0.400_seed002  K_I=0.7363  train_loss=1.50e-05  lefm_verif_err=0.61%  elapsed=1817s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed003/model.dict
+[104/200] train S0.400_seed003  K_I=0.7361  train_loss=9.96e-06  lefm_verif_err=0.64%  elapsed=1839s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed004/model.dict
+[105/200] train S0.400_seed004  K_I=0.7366  train_loss=9.97e-06  lefm_verif_err=0.56%  elapsed=1861s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed005/model.dict
+[106/200] train S0.400_seed005  K_I=0.7309  train_loss=1.93e-04  lefm_verif_err=1.33%  elapsed=1879s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed006/model.dict
+[107/200] train S0.400_seed006  K_I=0.7381  train_loss=8.22e-06  lefm_verif_err=0.37%  elapsed=1897s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed007/model.dict
+[108/200] train S0.400_seed007  K_I=0.7434  train_loss=4.66e-04  lefm_verif_err=0.35%  elapsed=1916s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed008/model.dict
+[109/200] train S0.400_seed008  K_I=0.7380  train_loss=1.84e-05  lefm_verif_err=0.38%  elapsed=1935s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed009/model.dict
+[110/200] train S0.400_seed009  K_I=0.7364  train_loss=1.75e-05  lefm_verif_err=0.59%  elapsed=1955s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed010/model.dict
+[111/200] train S0.400_seed010  K_I=0.7355  train_loss=8.82e-06  lefm_verif_err=0.71%  elapsed=1973s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed011/model.dict
+[112/200] train S0.400_seed011  K_I=0.7360  train_loss=1.47e-05  lefm_verif_err=0.65%  elapsed=1991s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed012/model.dict
+[113/200] train S0.400_seed012  K_I=0.7345  train_loss=1.19e-05  lefm_verif_err=0.85%  elapsed=2010s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed013/model.dict
+[114/200] train S0.400_seed013  K_I=0.7365  train_loss=4.20e-05  lefm_verif_err=0.58%  elapsed=2028s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed014/model.dict
+[115/200] train S0.400_seed014  K_I=0.7379  train_loss=2.77e-05  lefm_verif_err=0.40%  elapsed=2047s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed015/model.dict
+[116/200] train S0.400_seed015  K_I=0.7344  train_loss=5.21e-05  lefm_verif_err=0.86%  elapsed=2065s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed016/model.dict
+[117/200] train S0.400_seed016  K_I=0.7366  train_loss=4.17e-05  lefm_verif_err=0.57%  elapsed=2084s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed017/model.dict
+[118/200] train S0.400_seed017  K_I=0.7396  train_loss=1.88e-05  lefm_verif_err=0.17%  elapsed=2102s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed018/model.dict
+[119/200] train S0.400_seed018  K_I=0.7360  train_loss=1.46e-05  lefm_verif_err=0.65%  elapsed=2123s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.400_seed019/model.dict
+[120/200] train S0.400_seed019  K_I=0.7365  train_loss=1.17e-05  lefm_verif_err=0.58%  elapsed=2142s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed000/model.dict
+[121/200] train S0.500_seed000  K_I=0.9240  train_loss=1.37e-05  lefm_verif_err=0.22%  elapsed=2168s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed001/model.dict
+[122/200] train S0.500_seed001  K_I=0.9193  train_loss=2.25e-05  lefm_verif_err=0.72%  elapsed=2194s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed002/model.dict
+[123/200] train S0.500_seed002  K_I=0.9206  train_loss=1.40e-04  lefm_verif_err=0.58%  elapsed=2219s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed003/model.dict
+[124/200] train S0.500_seed003  K_I=0.9195  train_loss=2.71e-05  lefm_verif_err=0.71%  elapsed=2243s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed004/model.dict
+[125/200] train S0.500_seed004  K_I=0.9227  train_loss=1.11e-05  lefm_verif_err=0.36%  elapsed=2267s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed005/model.dict
+[126/200] train S0.500_seed005  K_I=0.9266  train_loss=3.34e-05  lefm_verif_err=0.06%  elapsed=2291s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed006/model.dict
+[127/200] train S0.500_seed006  K_I=0.9197  train_loss=2.28e-04  lefm_verif_err=0.68%  elapsed=2315s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed007/model.dict
+[128/200] train S0.500_seed007  K_I=0.9190  train_loss=1.41e-05  lefm_verif_err=0.75%  elapsed=2341s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed008/model.dict
+[129/200] train S0.500_seed008  K_I=0.9258  train_loss=1.96e-05  lefm_verif_err=0.02%  elapsed=2366s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed009/model.dict
+[130/200] train S0.500_seed009  K_I=0.9204  train_loss=2.24e-05  lefm_verif_err=0.60%  elapsed=2390s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed010/model.dict
+[131/200] train S0.500_seed010  K_I=0.9150  train_loss=4.08e-05  lefm_verif_err=1.19%  elapsed=2414s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed011/model.dict
+[132/200] train S0.500_seed011  K_I=0.9203  train_loss=2.56e-05  lefm_verif_err=0.61%  elapsed=2437s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed012/model.dict
+[133/200] train S0.500_seed012  K_I=0.9183  train_loss=7.69e-05  lefm_verif_err=0.83%  elapsed=2463s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed013/model.dict
+[134/200] train S0.500_seed013  K_I=0.9223  train_loss=1.16e-05  lefm_verif_err=0.40%  elapsed=2488s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed014/model.dict
+[135/200] train S0.500_seed014  K_I=0.9248  train_loss=1.12e-05  lefm_verif_err=0.13%  elapsed=2513s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed015/model.dict
+[136/200] train S0.500_seed015  K_I=0.9223  train_loss=4.01e-05  lefm_verif_err=0.40%  elapsed=2539s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed016/model.dict
+[137/200] train S0.500_seed016  K_I=0.9161  train_loss=7.65e-05  lefm_verif_err=1.07%  elapsed=2565s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed017/model.dict
+[138/200] train S0.500_seed017  K_I=0.9241  train_loss=3.21e-04  lefm_verif_err=0.21%  elapsed=2590s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed018/model.dict
+[139/200] train S0.500_seed018  K_I=0.9242  train_loss=1.03e-05  lefm_verif_err=0.19%  elapsed=2619s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.500_seed019/model.dict
+[140/200] train S0.500_seed019  K_I=0.9189  train_loss=3.14e-04  lefm_verif_err=0.76%  elapsed=2643s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed000/model.dict
+[141/200] train S0.600_seed000  K_I=1.1070  train_loss=2.55e-05  lefm_verif_err=0.37%  elapsed=2667s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed001/model.dict
+[142/200] train S0.600_seed001  K_I=1.1041  train_loss=3.73e-05  lefm_verif_err=0.64%  elapsed=2692s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed002/model.dict
+[143/200] train S0.600_seed002  K_I=1.1040  train_loss=3.16e-05  lefm_verif_err=0.65%  elapsed=2716s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed003/model.dict
+[144/200] train S0.600_seed003  K_I=1.1035  train_loss=4.18e-05  lefm_verif_err=0.69%  elapsed=2740s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed004/model.dict
+[145/200] train S0.600_seed004  K_I=1.1103  train_loss=1.17e-05  lefm_verif_err=0.08%  elapsed=2762s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed005/model.dict
+[146/200] train S0.600_seed005  K_I=1.1096  train_loss=2.81e-05  lefm_verif_err=0.14%  elapsed=2784s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed006/model.dict
+[147/200] train S0.600_seed006  K_I=1.1076  train_loss=5.72e-05  lefm_verif_err=0.32%  elapsed=2801s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed007/model.dict
+[148/200] train S0.600_seed007  K_I=1.1053  train_loss=1.42e-05  lefm_verif_err=0.53%  elapsed=2819s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed008/model.dict
+[149/200] train S0.600_seed008  K_I=1.1108  train_loss=2.19e-05  lefm_verif_err=0.04%  elapsed=2836s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed009/model.dict
+[150/200] train S0.600_seed009  K_I=1.0987  train_loss=6.13e-05  lefm_verif_err=1.13%  elapsed=2853s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed010/model.dict
+[151/200] train S0.600_seed010  K_I=1.1049  train_loss=1.33e-05  lefm_verif_err=0.57%  elapsed=2869s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed011/model.dict
+[152/200] train S0.600_seed011  K_I=1.1036  train_loss=5.03e-05  lefm_verif_err=0.68%  elapsed=2895s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed012/model.dict
+[153/200] train S0.600_seed012  K_I=1.1063  train_loss=5.74e-05  lefm_verif_err=0.44%  elapsed=2922s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed013/model.dict
+[154/200] train S0.600_seed013  K_I=1.1052  train_loss=2.03e-05  lefm_verif_err=0.54%  elapsed=2943s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed014/model.dict
+[155/200] train S0.600_seed014  K_I=1.1090  train_loss=1.37e-05  lefm_verif_err=0.20%  elapsed=2960s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed015/model.dict
+[156/200] train S0.600_seed015  K_I=1.1092  train_loss=3.86e-05  lefm_verif_err=0.18%  elapsed=2978s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed016/model.dict
+[157/200] train S0.600_seed016  K_I=1.1035  train_loss=3.15e-05  lefm_verif_err=0.70%  elapsed=3000s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed017/model.dict
+[158/200] train S0.600_seed017  K_I=1.1069  train_loss=3.05e-05  lefm_verif_err=0.39%  elapsed=3017s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed018/model.dict
+[159/200] train S0.600_seed018  K_I=1.1086  train_loss=1.32e-05  lefm_verif_err=0.24%  elapsed=3037s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.600_seed019/model.dict
+[160/200] train S0.600_seed019  K_I=1.1078  train_loss=1.47e-05  lefm_verif_err=0.31%  elapsed=3055s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed000/model.dict
+[161/200] train S0.650_seed000  K_I=1.1944  train_loss=1.76e-04  lefm_verif_err=0.78%  elapsed=3073s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed001/model.dict
+[162/200] train S0.650_seed001  K_I=1.1933  train_loss=4.02e-05  lefm_verif_err=0.88%  elapsed=3091s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed002/model.dict
+[163/200] train S0.650_seed002  K_I=1.1964  train_loss=3.89e-05  lefm_verif_err=0.62%  elapsed=3109s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed003/model.dict
+[164/200] train S0.650_seed003  K_I=1.1955  train_loss=3.60e-05  lefm_verif_err=0.69%  elapsed=3127s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed004/model.dict
+[165/200] train S0.650_seed004  K_I=1.2029  train_loss=1.13e-04  lefm_verif_err=0.07%  elapsed=3148s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed005/model.dict
+[166/200] train S0.650_seed005  K_I=1.1967  train_loss=4.64e-05  lefm_verif_err=0.59%  elapsed=3167s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed006/model.dict
+[167/200] train S0.650_seed006  K_I=1.2008  train_loss=3.81e-05  lefm_verif_err=0.25%  elapsed=3188s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed007/model.dict
+[168/200] train S0.650_seed007  K_I=1.1911  train_loss=2.27e-04  lefm_verif_err=1.06%  elapsed=3211s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed008/model.dict
+[169/200] train S0.650_seed008  K_I=1.2031  train_loss=4.16e-05  lefm_verif_err=0.06%  elapsed=3229s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed009/model.dict
+[170/200] train S0.650_seed009  K_I=1.1988  train_loss=4.96e-05  lefm_verif_err=0.42%  elapsed=3251s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed010/model.dict
+[171/200] train S0.650_seed010  K_I=1.1977  train_loss=3.07e-05  lefm_verif_err=0.51%  elapsed=3269s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed011/model.dict
+[172/200] train S0.650_seed011  K_I=1.1973  train_loss=3.83e-05  lefm_verif_err=0.54%  elapsed=3287s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed012/model.dict
+[173/200] train S0.650_seed012  K_I=1.1941  train_loss=4.19e-04  lefm_verif_err=0.81%  elapsed=3308s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed013/model.dict
+[174/200] train S0.650_seed013  K_I=1.1969  train_loss=2.32e-05  lefm_verif_err=0.58%  elapsed=3334s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed014/model.dict
+[175/200] train S0.650_seed014  K_I=1.2023  train_loss=1.68e-05  lefm_verif_err=0.12%  elapsed=3362s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed015/model.dict
+[176/200] train S0.650_seed015  K_I=1.1974  train_loss=5.00e-04  lefm_verif_err=0.54%  elapsed=3380s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed016/model.dict
+[177/200] train S0.650_seed016  K_I=1.1948  train_loss=4.06e-05  lefm_verif_err=0.75%  elapsed=3398s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed017/model.dict
+[178/200] train S0.650_seed017  K_I=1.1989  train_loss=8.00e-05  lefm_verif_err=0.40%  elapsed=3415s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed018/model.dict
+[179/200] train S0.650_seed018  K_I=1.2020  train_loss=1.71e-05  lefm_verif_err=0.15%  elapsed=3441s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.650_seed019/model.dict
+[180/200] train S0.650_seed019  K_I=1.1998  train_loss=1.40e-05  lefm_verif_err=0.33%  elapsed=3471s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed000/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed000/model.dict
+[181/200] train S0.700_seed000  K_I=1.2907  train_loss=1.09e-04  lefm_verif_err=0.44%  elapsed=3499s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed001/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed001/model.dict
+[182/200] train S0.700_seed001  K_I=1.2876  train_loss=1.35e-04  lefm_verif_err=0.68%  elapsed=3524s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed002/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed002/model.dict
+[183/200] train S0.700_seed002  K_I=1.2916  train_loss=3.62e-05  lefm_verif_err=0.37%  elapsed=3545s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed003/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed003/model.dict
+[184/200] train S0.700_seed003  K_I=1.2857  train_loss=9.58e-05  lefm_verif_err=0.82%  elapsed=3571s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed004/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed004/model.dict
+[185/200] train S0.700_seed004  K_I=1.2929  train_loss=5.51e-05  lefm_verif_err=0.27%  elapsed=3593s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed005/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed005/model.dict
+[186/200] train S0.700_seed005  K_I=1.2956  train_loss=3.81e-05  lefm_verif_err=0.06%  elapsed=3619s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed006/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed006/model.dict
+[187/200] train S0.700_seed006  K_I=1.2917  train_loss=1.64e-05  lefm_verif_err=0.36%  elapsed=3636s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed007/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed007/model.dict
+[188/200] train S0.700_seed007  K_I=1.2909  train_loss=1.68e-05  lefm_verif_err=0.42%  elapsed=3666s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed008/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed008/model.dict
+[189/200] train S0.700_seed008  K_I=1.2921  train_loss=7.72e-05  lefm_verif_err=0.33%  elapsed=3695s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed009/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed009/model.dict
+[190/200] train S0.700_seed009  K_I=1.2919  train_loss=4.30e-05  lefm_verif_err=0.34%  elapsed=3724s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed010/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed010/model.dict
+[191/200] train S0.700_seed010  K_I=1.2871  train_loss=2.47e-05  lefm_verif_err=0.71%  elapsed=3753s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed011/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed011/model.dict
+[192/200] train S0.700_seed011  K_I=1.2927  train_loss=4.30e-05  lefm_verif_err=0.28%  elapsed=3781s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed012/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed012/model.dict
+[193/200] train S0.700_seed012  K_I=1.2924  train_loss=2.71e-04  lefm_verif_err=0.31%  elapsed=3807s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed013/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed013/model.dict
+[194/200] train S0.700_seed013  K_I=1.2894  train_loss=2.80e-05  lefm_verif_err=0.54%  elapsed=3827s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed014/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed014/model.dict
+[195/200] train S0.700_seed014  K_I=1.2934  train_loss=6.32e-05  lefm_verif_err=0.23%  elapsed=3844s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed015/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed015/model.dict
+[196/200] train S0.700_seed015  K_I=1.2949  train_loss=1.43e-04  lefm_verif_err=0.11%  elapsed=3862s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed016/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed016/model.dict
+[197/200] train S0.700_seed016  K_I=1.2867  train_loss=4.47e-05  lefm_verif_err=0.75%  elapsed=3880s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed017/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed017/model.dict
+[198/200] train S0.700_seed017  K_I=1.2943  train_loss=3.17e-05  lefm_verif_err=0.16%  elapsed=3897s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed018/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed018/model.dict
+[199/200] train S0.700_seed018  K_I=1.2948  train_loss=2.31e-05  lefm_verif_err=0.13%  elapsed=3918s
+Device:  cpu
+# Saved loss at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed019/loss.dat
+# Saved neural network model at /Users/jade/Personal Projects/Asymptotic-Failure-for-Crack-Trip-Physics-Solvers-/results/raw/S0.700_seed019/model.dict
+[200/200] train S0.700_seed019  K_I=1.2951  train_loss=1.26e-05  lefm_verif_err=0.10%  elapsed=3936s
