@@ -14,6 +14,20 @@ nothing in its own diagnostics giving that away. This is a silent failure,
 and it's the condition under which the proposed matched-asymptotic
 (elastic + HRR) detector study is justified to proceed.
 
+**Follow-on: can a matched-asymptotic overlap signal detect this where the
+loss can't?** See
+[`report/REPORT_matched_asymptotics.md`](report/REPORT_matched_asymptotics.md).
+Short version: the cheapest version of the idea (post-hoc HRR-form fit to
+pihnn's already-converged fields, no retraining) does **not** work, for a
+provable structural reason -- it's as blind as the loss. A construction that
+actually injects the missing physical input (yield stress, hardening
+exponent, the HRR field, calibrated via J-matching against pihnn's own
+`K_I`) does work: Spearman ρ=+0.95 with the true error across 200 runs (vs
+−0.41 for loss), and it becomes statistically resolvable from seed noise
+*before* the true error itself does (S≈0.10 vs S≈0.2-0.3). Both the
+successful and two rejected constructions are documented, since the reasons
+the naive ones fail are as informative as the one that works.
+
 ## What's here
 
 - `src/pihnn_wrapper.py` -- wraps (does not modify) the
@@ -45,6 +59,23 @@ and it's the condition under which the proposed matched-asymptotic
   `correlation_stats.txt`.
 - `report/REPORT.md` -- the actual writeup: method, reference justification
   and limitations, convergence checks, results, interpretation.
+- `src/hrr_reference.py` -- the HRR (Hutchinson-Rice-Rosengren) inner field
+  and the matched-asymptotic detector, `zeta`. Cites the source of its
+  tabulated constants (I_n, angular function) and documents two rejected
+  constructions before landing on the one used.
+- `src/field_fit.py` -- Detector 1, the naive post-hoc control: reloads a
+  trained model (no retraining) and fits a free power-law exponent to its
+  own near-tip field over a fixed radius window.
+- `src/detector_sweep.py` -- runs both detectors over all 200 existing raw
+  runs from the prior sweep (post-hoc only, ~1 second total, no training).
+  Writes `results/processed/detectors.csv`.
+- `src/analyze_detectors.py` -- correlation statistics (Pearson/Spearman,
+  aggregate and per-sweep-point) for both detectors against the true error,
+  the seed-noise onset analysis, and the required figure
+  (`figures/detector_vs_error.png`).
+- `report/REPORT_matched_asymptotics.md` -- the follow-on study: route
+  justification, the HRR-constant citation, two rejected detector
+  constructions and why they failed, results, limitations.
 
 ## Reproducing
 
