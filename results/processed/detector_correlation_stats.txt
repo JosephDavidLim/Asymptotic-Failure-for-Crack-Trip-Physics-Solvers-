@@ -1,0 +1,33 @@
+n = 200 runs, 10 sweep points, 20 seeds/point
+
+Loss (prior study's diagnostic):
+  all-200 runs:     Pearson r=-0.117 (p=9.76e-02)   Spearman rho=-0.412 (p=1.34e-09)
+  per-S means(n=10): Pearson r=-0.432 (p=2.12e-01)   Spearman rho=-0.636 (p=4.79e-02)
+
+Detector 1: naive post-hoc field-fit exponent deviation from -0.5:
+  all-200 runs:     Pearson r=+0.106 (p=1.36e-01)   Spearman rho=+0.211 (p=2.75e-03)
+  per-S means(n=10): Pearson r=+0.486 (p=1.54e-01)   Spearman rho=+0.612 (p=6.00e-02)
+
+Detector 2: HRR severity zeta = sigma_HRR(r*=0.05;S)/sigma_y:
+  all-200 runs:     Pearson r=+0.879 (p=1.39e-65)   Spearman rho=+0.950 (p=2.12e-102)
+  per-S means(n=10): Pearson r=+0.879 (p=7.99e-04)   Spearman rho=+0.988 (p=9.31e-08)
+
+Onset above seed noise (sigma-separation from S=0.05 baseline distribution, pooled std):
+    S   err_sigma   zeta_sigma   field_fit_sigma
+ 0.05        0.00          0.0              0.00
+ 0.10       -0.45         99.7             -0.25
+ 0.15        0.02        227.9             -0.25
+ 0.20        1.97        240.1             -0.16
+ 0.30        8.29        380.5              0.14
+ 0.40       16.46        395.8              0.27
+ 0.50       27.87        425.2              0.22
+ 0.60       45.70        522.5              0.15
+ 0.65       55.15        525.5              0.04
+ 0.70       68.11        601.7              0.04
+
+Reading >2-sigma as 'resolvable': true error is not resolvable from the S=0.05
+baseline until S~0.2-0.3 (1.97-sigma at 0.20, 8.29-sigma at 0.30); the HRR severity
+detector is already >99-sigma separated at the very next point tested, S=0.10 --
+i.e. its onset is at or below our sweep's resolution and we cannot localize it
+more precisely without finer S spacing near 0.05-0.10. The naive field-fit control
+never becomes resolvable (max ~2-sigma, non-monotonic) anywhere in the sweep.
