@@ -1,0 +1,24 @@
+All 200 runs, loss vs plastic-reference error:
+  Pearson r = -0.117 (p=9.76e-02)
+  Spearman rho = -0.412 (p=1.34e-09)
+
+Per-S means (n=10 sweep points), loss vs plastic-reference error:
+  Pearson r = -0.432 (p=2.12e-01)
+  Spearman rho = -0.636 (p=4.79e-02)
+
+Within-S (seed-noise only, controlling for S) loss vs error, n=20 each:
+  S=0.05: r=+0.566 (p=0.01)
+  S=0.10: r=+0.448 (p=0.05)
+  S=0.15: r=+0.326 (p=0.16)
+  S=0.20: r=+0.615 (p=0.00)
+  S=0.30: r=-0.029 (p=0.90)
+  S=0.40: r=-0.408 (p=0.07)
+  S=0.50: r=+0.131 (p=0.58)
+  S=0.60: r=+0.504 (p=0.02)
+  S=0.65: r=+0.348 (p=0.13)
+  S=0.70: r=+0.069 (p=0.77)
+  mean within-S r = +0.257
+
+loss range across sweep: 2.58e-05 - 1.46e-02  (x565.7)
+plastic_reference_error range across sweep: 0.9% - 33.2%  (x37.6)
+lefm_verification_error (undertraining control) range: 0.02% - 2.93%
