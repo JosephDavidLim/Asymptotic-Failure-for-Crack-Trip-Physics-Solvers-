@@ -4,5 +4,6 @@
     "seed_start": 0,
     "n_epochs": 2000,
     "raw_dir": "results/raw",
+    "include_sif_diagnostics": false,
     "notes": "S = sig_ext / sigma_y, with sigma_y fixed at 1.0. Net-section yield (limit load) for this geometry (a=1, l=4, i.e. W=8) is at S=0.75, so 0.70 is the highest point still below limit load. n_epochs=2000 chosen after calibration: at S=0.05 (worst case for absolute-loss-floor-vs-signal-size), LEFM verification error was 2.45% at 1000 epochs, 1.20% at 2000 epochs, 1.15% at 4000 epochs (diminishing returns) -- 2000 epochs is the point past which more training stops meaningfully helping."
 }

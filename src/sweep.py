@@ -27,6 +27,7 @@ def main(config_path: str):
     seed_start = cfg.get("seed_start", 0)
     n_epochs = cfg["n_epochs"]
     raw_dir = cfg["raw_dir"]
+    include_sif_diagnostics = cfg.get("include_sif_diagnostics", False)
 
     total_runs = len(S_values) * n_seeds
     done = 0
@@ -37,15 +38,24 @@ def main(config_path: str):
             run_id = f"S{S:.3f}_seed{seed:03d}"
             out_dir = os.path.join(raw_dir, run_id)
             already = os.path.exists(os.path.join(out_dir, "summary.json"))
-            summary = run_training(S, seed, n_epochs, out_dir)
+            summary = run_training(
+                S,
+                seed,
+                n_epochs,
+                out_dir,
+                include_sif_diagnostics=include_sif_diagnostics,
+            )
             done += 1
             tag = "skip " if already else "train"
             elapsed = time.time() - t_start
+            diagnostic_text = ""
+            if "g" in summary:
+                diagnostic_text = f"  g={summary['g']:.3e}" if summary["g"] is not None else "  g=undefined"
             print(
                 f"[{done}/{total_runs}] {tag} {run_id}  "
                 f"K_I={summary['K_I']:.4f}  train_loss={summary['final_train_loss']:.2e}  "
                 f"lefm_verif_err={summary['lefm_verification_error']:.2%}  "
-                f"elapsed={elapsed:.0f}s",
+                f"elapsed={elapsed:.0f}s{diagnostic_text}",
                 flush=True,
             )
 

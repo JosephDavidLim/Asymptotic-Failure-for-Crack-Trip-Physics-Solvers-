@@ -25,6 +25,9 @@ import reference  # noqa: E402
 FIELDS = [
     "S", "seed", "n_epochs", "wall_time_sec",
     "K_I", "K_II",
+    "K_c_I", "K_c_II", "K_J_I", "K_J_II", "g", "g_status",
+    "sif_tip_index", "sif_contour_radius", "sif_integration_points",
+    "sif_library_complex_convention", "sif_report_complex_convention",
     "final_train_loss", "final_test_loss",
     "normalized_train_loss", "normalized_test_loss",
     "plateau_ratio",

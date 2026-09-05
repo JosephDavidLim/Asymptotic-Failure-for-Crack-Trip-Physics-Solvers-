@@ -54,6 +54,67 @@ BETA = 0.5
 GAUSS = 3
 LEARN_RATE = 1e-2
 SCHEDULER_APPLY = []
+SIF_CONTOUR_RADIUS = A_CRACK
+SIF_INTEGRATION_POINTS = 1000
+
+
+def compute_sif_diagnostics(
+    model,
+    crack,
+    tip_index: int = 0,
+    radius: float = SIF_CONTOUR_RADIUS,
+    integration_points: int = SIF_INTEGRATION_POINTS,
+) -> dict:
+    """Compute coefficient- and interaction-integral SIFs at one crack tip.
+
+    pihnn stores its trainable complex coefficient as K_I + i*K_II.  The
+    individual real components below are convention-independent; the metadata
+    records the convention explicitly so downstream code can form either
+    K_I+i*K_II or K_I-i*K_II without guessing.
+
+    ``g`` is a reported diagnostic only.  It is not used by training,
+    convergence checks, or snapshot selection.
+    """
+    if not 0 <= tip_index < len(crack.tips):
+        raise IndexError(f"tip_index {tip_index} is outside [0, {len(crack.tips)})")
+
+    # build_boundary() creates one crack and pihnn orders model.sif in the same
+    # order as crack.tips. Read the coefficient before yau_wang_method
+    # temporarily swaps model.sif while applying its auxiliary fields.
+    K_c = model.sif[tip_index].detach()
+    K_c_I = float(K_c.real)
+    K_c_II = float(K_c.imag)
+
+    K_J_I_tensor, K_J_II_tensor = utils.yau_wang_method(
+        model,
+        crack.tips[tip_index],
+        radius,
+        integration_points=integration_points,
+    )
+    K_J_I = float(K_J_I_tensor)
+    K_J_II = float(K_J_II_tensor)
+
+    K_J_abs = math.hypot(K_J_I, K_J_II)
+    if K_J_abs == 0.0:
+        g = None
+        g_status = "undefined_zero_K_J"
+    else:
+        g = math.hypot(K_c_I - K_J_I, K_c_II - K_J_II) / K_J_abs
+        g_status = "ok"
+
+    return {
+        "K_c_I": K_c_I,
+        "K_c_II": K_c_II,
+        "K_J_I": K_J_I,
+        "K_J_II": K_J_II,
+        "g": g,
+        "g_status": g_status,
+        "sif_tip_index": tip_index,
+        "sif_contour_radius": float(radius),
+        "sif_integration_points": int(integration_points),
+        "sif_library_complex_convention": "K_I + i*K_II",
+        "sif_report_complex_convention": "K_I - i*K_II",
+    }
 
 
 def build_boundary(sig_ext: float):
@@ -78,7 +139,13 @@ def build_boundary(sig_ext: float):
     return boundary, crack
 
 
-def run_training(S: float, seed: int, n_epochs: int, out_dir: str) -> dict:
+def run_training(
+    S: float,
+    seed: int,
+    n_epochs: int,
+    out_dir: str,
+    include_sif_diagnostics: bool = False,
+) -> dict:
     """
     Train one enriched elastic pihnn model at applied stress sig_ext = S
     (sigma_y is fixed at 1, so S is directly the load-over-yield ratio),
@@ -112,9 +179,15 @@ def run_training(S: float, seed: int, n_epochs: int, out_dir: str) -> dict:
 
     # NOTE: must NOT be wrapped in torch.no_grad() -- compute_J_integral
     # internally differentiates the network output w.r.t. its input points.
-    sif_i, sif_ii = utils.yau_wang_method(model, crack.tips[0], A_CRACK)
-    K_I = float(sif_i)
-    K_II = float(sif_ii)
+    sif_diagnostics = None
+    if include_sif_diagnostics:
+        sif_diagnostics = compute_sif_diagnostics(model, crack)
+        K_I = sif_diagnostics["K_J_I"]
+        K_II = sif_diagnostics["K_J_II"]
+    else:
+        sif_i, sif_ii = utils.yau_wang_method(model, crack.tips[0], A_CRACK)
+        K_I = float(sif_i)
+        K_II = float(sif_ii)
 
     # Convergence diagnostic 1: numerical convergence / plateau check.
     # Compare mean loss over the last 5% of epochs to the preceding 5%.
@@ -154,6 +227,8 @@ def run_training(S: float, seed: int, n_epochs: int, out_dir: str) -> dict:
         "lefm_verification_error": lefm_verification_error,
         "out_dir": out_dir,
     }
+    if sif_diagnostics is not None:
+        summary.update(sif_diagnostics)
     with open(summary_path, "w") as f:
         json.dump(summary, f, indent=2)
     return summary
